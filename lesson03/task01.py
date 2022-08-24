@@ -24,10 +24,3 @@ def func_devision(divisible, divisor):
 
 print(func_devision(first_number, second_number))
 
-
-
-#user_num = input('введите целое число\n')
-#    if user_num.isdigit():
-#        user_num = int(user_num)
-#    else:
-#        print('Ошибка введено не число')
